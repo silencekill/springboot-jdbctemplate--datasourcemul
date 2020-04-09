@@ -1,0 +1,2 @@
+# springboot-jdbctemplate--datasourcemul
+springboot整合jdbcTemplate以及多数据源配置
